@@ -1,5 +1,5 @@
-
-#!/usr/bin/env python3
+#code soft internship task :-5
+#Rock-Paper-Scissors Game
 
 """This program plays a game of Rock, Paper, Scissors between two Players,
 and reports both Player's scores each round."""
